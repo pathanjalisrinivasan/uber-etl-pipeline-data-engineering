@@ -10,7 +10,7 @@ Data analytics on Uber data using various tools and technologies, including GCP 
 <ul>Compute Instance</ul>
 <ul>BigQuery</ul>
 <ul>Looker Studio</ul>
-<ul>Modern Data Pipeine Tool - https://www.mage.ai/</ul>
+<ul>Data Pipeline Tool - https://www.mage.ai/</ul>
 
 Contibute to this open source project - https://github.com/mage-ai/mage-ai
 
